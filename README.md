@@ -15,6 +15,11 @@ A modern, user-friendly desktop application for managing student records with an
 
 ## UI
 
+<p align="center">
+  <img src="frontend.png" alt="Student Database UI" width="400"/>
+</p>
+
+
 The application features a modern interface with:
 - Clean, organized and an intuitive layout with labeled sections
 - Color-coded buttons for different actions
@@ -84,6 +89,12 @@ student-database/
 - **Clear**: Clear the input fields and list display
 - **Delete All**: Remove all students from the database
 - **Exit**: Close the application
+
+
+<p align="center">
+  <img src="example.png" alt="Example Database" width="400"/>
+</p>
+
 
 ## Database Schema
 
